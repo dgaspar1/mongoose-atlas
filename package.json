@@ -1,0 +1,20 @@
+{
+    "name": "mongoose-atlas",
+    "version": "1.0.0",
+    "description": "Hello world project",
+    "private": true,
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "author": "Denys Gaspar",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "mongodb": "^4.1.2",
+        "mongoose": "^6.0.6"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
